@@ -1,1 +1,2 @@
-export * from './Game'
+export { Game } from './Game'
+export type { AnimationStateName } from './types'
